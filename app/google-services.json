@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186321291352",
+    "project_id": "easy-notes-pro",
+    "storage_bucket": "easy-notes-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186321291352:android:eae0a8c6ba9b2a5d8b622d",
+        "android_client_info": {
+          "package_name": "com.appdeveloperrakib.easynotespro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186321291352-ccanudm3usdjsl833fp3pid1okvm3pdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi2XwEK1AcUYCLTR9wqWanT77AghA8eZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186321291352-ccanudm3usdjsl833fp3pid1okvm3pdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
